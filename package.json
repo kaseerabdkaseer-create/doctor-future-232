@@ -1,0 +1,16 @@
+{
+  "name": "doctor-future-232-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure server-side OpenRouter proxy for Doctor Future 232+",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
